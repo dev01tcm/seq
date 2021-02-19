@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="WINDOWS-874"?>
+<AuditXML>
+	<AuditHead>
+		<TotalAccount>2</TotalAccount>
+		<GovDepart>SSO</GovDepart>
+		<DocID>สปส.04/2564</DocID>
+		<RequestID>64004</RequestID>
+	</AuditHead>
+	<AuditDetail>
+		<ORIGTitleName>นาย</ORIGTitleName>
+		<ORIGFirstName>ทดสอบ1</ORIGFirstName>
+		<ORIGLastName>ตรวจหุ้น1</ORIGLastName>
+		<ORIGReferenceID>1000000555555</ORIGReferenceID>
+		<ORIGHolderTypeID>1</ORIGHolderTypeID>
+		<CustomerInfo>
+			<AccountID>6000088888</AccountID>
+			<ReferenceID>1000000555555</ReferenceID>
+			<HolderTypeID>1</HolderTypeID>
+			<TitleName>นาย</TitleName>
+			<FirstName>ทดสอบ1</FirstName>
+			<LastName>ตรวจหุ้น1</LastName>
+			<Address>700 ม.7 ต.บึงกาฬ อ.บึงกาฬ จ.บึงกาฬ </Address>
+			<ZipCode>43140</ZipCode>
+			<ResultFlag>1</ResultFlag>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>AOT</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2020-01-28</EffectiveDate>
+				<CertificateNo>07650000111111</CertificateNo>
+				<SecuritiesShares>5000</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>ACAP</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท เอเชีย แคปปิตอล กรุ๊ป จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2021-02-28</EffectiveDate>
+				<CertificateNo>07650000111112</CertificateNo>
+				<SecuritiesShares>5000</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>CHAYO</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท ชโย กรุ๊ป จำกัด (มหาชน)บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2021-02-28</EffectiveDate>
+				<CertificateNo>Issuer Account</CertificateNo>
+				<SecuritiesShares>4000</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>DELTA</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัทเดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2021-01-28</EffectiveDate>
+				<CertificateNo>07650000111113</CertificateNo>
+				<SecuritiesShares>1000</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>IIG</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท ไอแอนด์ไอ กรุ๊ป จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>02</SecuritiesType>
+				<EffectiveDate>2020-02-28</EffectiveDate>
+				<CertificateNo>07650000111114</CertificateNo>
+				<SecuritiesShares>2000</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>IND</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท อินเด็กซ์ อินเตอร์เนชั่นแนล กรุ๊ป จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2020-02-28</EffectiveDate>
+				<CertificateNo>Issuer Account</CertificateNo>
+				<SecuritiesShares>4400</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+		</CustomerInfo>
+	</AuditDetail>
+	<AuditDetail>
+		<ORIGTitleName>นาย</ORIGTitleName>
+		<ORIGFirstName>ทดสอบ2</ORIGFirstName>
+		<ORIGLastName>ตรวจหุ้น2</ORIGLastName>
+		<ORIGReferenceID>1000000555666</ORIGReferenceID>
+		<ORIGHolderTypeID>1</ORIGHolderTypeID>
+		<CustomerInfo>
+			<AccountID>6000088999</AccountID>
+			<ReferenceID>1000000555666</ReferenceID>
+			<HolderTypeID>1</HolderTypeID>
+			<TitleName>นาย</TitleName>
+			<FirstName>ทดสอบ2</FirstName>
+			<LastName>ตรวจหุ้น2</LastName>
+			<Address>110 ถ.บางแสนสาย 2 ต.แสนสุข อ.เมือง จ.ชลบุรี</Address>
+			<ZipCode>50140</ZipCode>
+			<ResultFlag>1</ResultFlag>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>ACAP</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท เอเชีย แคปปิตอล กรุ๊ป จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2021-02-28</EffectiveDate>
+				<CertificateNo>07650000111222</CertificateNo>
+				<SecuritiesShares>5000</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>CHAYO</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท ชโย กรุ๊ป จำกัด (มหาชน)บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2021-02-28</EffectiveDate>
+				<CertificateNo>Issuer Account</CertificateNo>
+				<SecuritiesShares>120</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>DELTA</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัทเดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2021-01-28</EffectiveDate>
+				<CertificateNo>07650000111333</CertificateNo>
+				<SecuritiesShares>45000</SecuritiesShares>
+				<CertStatus>1</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>IIG</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท ไอแอนด์ไอ กรุ๊ป จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>02</SecuritiesType>
+				<EffectiveDate>2020-02-28</EffectiveDate>
+				<CertificateNo>07650000111444</CertificateNo>
+				<SecuritiesShares>50003</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>IND</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท อินเด็กซ์ อินเตอร์เนชั่นแนล กรุ๊ป จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<EffectiveDate>2020-02-28</EffectiveDate>
+				<CertificateNo>Issuer Account</CertificateNo>
+				<SecuritiesShares>5000</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+		</CustomerInfo>
+	</AuditDetail>
+</AuditXML>

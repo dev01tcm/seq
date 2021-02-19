@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSO>
+  <AuditHead>
+    <TotalAccount>2</TotalAccount>
+    <GovDepart>SSO</GovDepart>
+    <DocID>64004</DocID>
+    <RequestID>รง0625/ว56666</RequestID>
+    <Audittype>
+      <Audit>00</Audit>
+      <Audit>XM</Audit>
+      <Audit>XD</Audit>
+    </Audittype>
+    <BeginTransDate>NaN-NaN-NaN</BeginTransDate>
+    <EndTransDate>NaN-NaN-NaN</EndTransDate>
+    <SendingDate>2021-1-14</SendingDate>
+  </AuditHead>
+  <Auditdetail>
+    <ReferenceID>6535635635635</ReferenceID>
+    <FirstName>ukhjkujk</FirstName>
+    <LastName/>
+    <Address>lkljlk</Address>
+  </Auditdetail>
+  <Auditdetail>
+    <ReferenceID>6335363563535</ReferenceID>
+    <FirstName>8o9uou</FirstName>
+    <LastName/>
+    <Address>39 ซอยบ้านบึงสันติ 2    ถ.บ้านบึงสันติ ต.บ้านบึง      อ.บ้านบึง  จ.ชลบุรี</Address>
+  </Auditdetail>
+</SSO>

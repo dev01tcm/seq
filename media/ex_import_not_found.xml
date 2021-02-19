@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-874"?>
+<AuditXML>
+	<AuditHead>
+		<TotalAccount>2</TotalAccount>
+		<GovDepart>SSO</GovDepart>
+		<DocID>รง0015/2013</DocID>
+		<RequestID>64004</RequestID>
+	</AuditHead>
+	<AuditDetail>
+		<ORIGReferenceID>0203550001442</ORIGReferenceID>
+		<ORIGHolderTypeID>1</ORIGHolderTypeID>
+		<ORIGTitleName>นาย</ORIGTitleName>
+		<ORIGFirstName>รัฐบาล</ORIGFirstName>
+		<ORIGLastName>พุ่มพานธิโส</ORIGLastName>
+	</AuditDetail>
+	<AuditDetail>
+		<ORIGReferenceID>0103536035191</ORIGReferenceID>
+		<ORIGHolderTypeID>1</ORIGHolderTypeID>
+		<ORIGTitleName>นาย</ORIGTitleName>
+		<ORIGFirstName>บุญเมียด</ORIGFirstName>
+		<ORIGLastName>ศรีบาญเย็น</ORIGLastName>
+	</AuditDetail>
+</AuditXML>

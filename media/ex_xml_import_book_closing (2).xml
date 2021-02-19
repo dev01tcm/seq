@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="WINDOWS-874"?>
+<AuditXML>
+	<AuditHead>
+		<TotalAccount>2</TotalAccount>
+		<GovDepart>SSO</GovDepart>
+		<DocID>สปส.004/2564</DocID>
+		<RequestID>64004</RequestID>
+	</AuditHead>
+	<AuditDetail>
+		<ORIGTitleName>นาย</ORIGTitleName>
+		<ORIGFirstName>ทดสอสบ1</ORIGFirstName>
+		<ORIGLastName>ตรวจหุ้น1</ORIGLastName>
+		<ORIGReferenceID>1000000555555</ORIGReferenceID>
+		<ORIGHolderTypeID>1</ORIGHolderTypeID>
+		<CustomerInfo>
+			<AccountID>4040404040</AccountID>
+			<ReferenceID>1000000555555</ReferenceID>
+			<HolderTypeID>1</HolderTypeID>
+			<TitleName>นาย</TitleName>
+			<FirstName>ทดสอบ1</FirstName>
+			<LastName>ตรวจหุ้น1</LastName>
+			<Address>700 หมู่7 ตำบลบึงกาฬ อำเภอเมืองบึงกาฬ บึงกาฬ </Address>
+			<ZipCode>38000</ZipCode>
+			<ResultFlag>1</ResultFlag>
+			<SecuritiesInfo>
+				<AuditType>XD</AuditType>
+				<SecuritiesAbbr>AAV</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท เอเชีย เอวิเอชั่น จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<BookClosingDate>2021-09-26</BookClosingDate>
+				<EffectiveDate>2021-10-09</EffectiveDate>
+				<SecuritiesShares>1100</SecuritiesShares>
+				<PartiNo>224</PartiNo>
+				<PartiNameThai>บริษัทหลักทรัพย์ บัวหลวง จำกัด (มหาชน)</PartiNameThai>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<AuditType>XD</AuditType>
+				<SecuritiesAbbr>BEM</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท ทางด่วนและรถไฟฟ้ากรุงเทพ จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<BookClosingDate>2021-08-23</BookClosingDate>
+				<EffectiveDate>2021-09-04</EffectiveDate>
+				<SecuritiesShares>600</SecuritiesShares>
+				<PartiNo>224</PartiNo>
+				<PartiNameThai>บริษัทหลักทรัพย์ บัวหลวง จำกัด (มหาชน)</PartiNameThai>
+			</SecuritiesInfo>
+		</CustomerInfo>
+	</AuditDetail>
+	<AuditDetail>
+		<ORIGTitleName>นาย</ORIGTitleName>
+		<ORIGFirstName>ทดสอสบ2</ORIGFirstName>
+		<ORIGLastName>ตรวจหุ้น2</ORIGLastName>
+		<ORIGReferenceID>1000000556666</ORIGReferenceID>
+		<ORIGHolderTypeID>1</ORIGHolderTypeID>
+		<CustomerInfo>
+			<AccountID>00000002</AccountID>
+			<ReferenceID>1000000556666</ReferenceID>
+			<HolderTypeID>1</HolderTypeID>
+			<TitleName>นาย</TitleName>
+			<FirstName>ทดสอบ2</FirstName>
+			<LastName>ตรวจหุ้น2</LastName>
+			<Address>700 หมู่7 ตำบลบึงกาฬ อำเภอเมืองบึงกาฬ บึงกาฬ </Address>
+			<ZipCode>38000</ZipCode>
+			<ResultFlag>1</ResultFlag>
+			<SecuritiesInfo>
+				<AuditType>XM</AuditType>
+				<SecuritiesAbbr>IPMAN</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท ยิปมันอินเตอร์ จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<BookClosingDate>2021-09-26</BookClosingDate>
+				<EffectiveDate>2021-10-09</EffectiveDate>
+				<SecuritiesShares>1200</SecuritiesShares>
+				<PartiNo>224</PartiNo>
+				<PartiNameThai>บริษัทหลักทรัพย์ บัวหลวง จำกัด (มหาชน)</PartiNameThai>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<AuditType>XD</AuditType>
+				<SecuritiesAbbr>KCE</SecuritiesAbbr>
+				<SecuritiesNameThai>บริษัท เคซีอี อีเลคโทรนิคส์ จำกัด (มหาชน)</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<BookClosingDate>2021-08-23</BookClosingDate>
+				<EffectiveDate>2021-09-04</EffectiveDate>
+				<SecuritiesShares>1600</SecuritiesShares>
+				<PartiNo>224</PartiNo>
+				<PartiNameThai>บริษัทหลักทรัพย์ บัวหลวง จำกัด (มหาชน)</PartiNameThai>
+			</SecuritiesInfo>
+		</CustomerInfo>
+	</AuditDetail>
+</AuditXML>

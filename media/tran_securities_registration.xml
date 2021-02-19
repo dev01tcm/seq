@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AuditXML>
+	<AuditHead>
+		<TotalAccount>2</TotalAccount>
+		<GovDepart>SSO</GovDepart>
+		<DocID>nacc0015/2021</DocID>
+		<RequestID>64001</RequestID>
+	</AuditHead>
+	<AuditDetail>
+		<ORIGReferenceID>0102555002547</ORIGReferenceID>
+		<ORIGHolderTypeID>1</ORIGHolderTypeID>
+		<ORIGTitleName>นาย</ORIGTitleName>
+		<ORIGFirstName>รัฐพงษ์</ORIGFirstName>
+		<ORIGLastName>พุ่มโพธิสาร</ORIGLastName>
+		<CustomerInfo>
+			<AccountID>9999</AccountID>
+			<ReferenceID>0102555002547</ReferenceID>
+			<HolderTypeID>1</HolderTypeID>
+			<TitleName>นาย</TitleName>
+			<FirstName>รัฐพงษ์</FirstName>
+			<LastName>พุ่มโพธิสาร</LastName>
+			<Address>12344</Address>
+			<ZipCode>10900</ZipCode>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>AOT</SecuritiesAbbr>
+				<SecuritiesNameThai>ท่าอากาศยานไทย</SecuritiesNameThai>
+				<SecuritiesType>01</SecuritiesType>
+				<CertificateNo>Issuer Account</CertificateNo>
+				<ExpirationDate>2022-01-01</ExpirationDate>
+				<OrigEndingDate>2021-01-22</OrigEndingDate>
+				<SecuritiesShares>50</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+			<SecuritiesInfo>
+				<SecuritiesAbbr>OR</SecuritiesAbbr>
+				<SecuritiesName>กลุ่ม ปตท</SecuritiesName>
+				<SecuritiesType>01</SecuritiesType>
+				<CertificateNo>20210122XXXXXX</CertificateNo>
+				<ExpirationDate>2022-01-01</ExpirationDate>
+				<OrigEndingDate>2021-01-22</OrigEndingDate>
+				<SecuritiesShares>20</SecuritiesShares>
+				<CertStatus>0</CertStatus>
+			</SecuritiesInfo>
+		</CustomerInfo>
+	</AuditDetail>
+</AuditXML>
